@@ -6,7 +6,7 @@ __This package provides some configurations for maintaining consistent coding st
 - [Babelrc](.babelrc)
 
 ## ESLint
-- TODO – .eslintrc as an extensible shared config?
+- [ ] .eslintrc as an extensible shared config?
 
 ## Editors/IDEs
 - [EditorConfig](.editorconfig)
