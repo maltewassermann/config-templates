@@ -1,12 +1,12 @@
 # Project and Editor Configurations
 
-__This package provides some configurations for maintaining consistent coding styles between different projects, editors and IDEs.__
+This package provides some configurations for maintaining consistent coding styles between different projects, editors and IDEs.
 
 ## Babel
 - [Babelrc](.babelrc)
 
 ## ESLint
-- [ ] .eslintrc as an extensible shared config?
+- [ ] TODO(maltewassermann) .eslintrc as an extensible shared config?
 
 ## Editors/IDEs
 - [EditorConfig](.editorconfig)
