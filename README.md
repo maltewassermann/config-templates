@@ -1,6 +1,6 @@
 # Project and Editor Configurations
 
-This package provides some configurations for maintaining consistent coding styles between different projects, editors and IDEs.
+This package provides some configurations for maintaining consistent coding between different projects, editors and IDEs.
 
 ## Babel
 - [Babelrc](.babelrc)
