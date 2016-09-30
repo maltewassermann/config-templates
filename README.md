@@ -15,5 +15,5 @@ This package provides some configurations for maintaining consistent coding styl
 - [Gitattributes](.gitattributes)
 - [Gitignore](.gitignore)
 
-## Web
+## Crawling
 - [Robots exclusion](robots.txt)
