@@ -1,4 +1,4 @@
-# Project and IDE configurations
+# Project and Editor Configurations
 
 __This package provides some configurations for maintaining consistent coding styles between different projects, editors and IDEs.__
 
