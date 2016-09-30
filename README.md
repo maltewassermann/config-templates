@@ -16,4 +16,4 @@ This package provides some configurations for maintaining consistent coding styl
 - [Gitignore](.gitignore)
 
 ## Crawling
-- [Robots exclusion](robots.txt)
+- [Robots](robots.txt)
