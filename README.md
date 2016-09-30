@@ -12,5 +12,8 @@ This package provides some configurations for maintaining consistent coding styl
 - [EditorConfig](.editorconfig)
 
 ## Git
-- [Git Attributes](.gitattributes)
-- [Git Ignore](.gitignore)
+- [Gitattributes](.gitattributes)
+- [Gitignore](.gitignore)
+
+## Web
+- [Robots exclusion](robots.txt)
