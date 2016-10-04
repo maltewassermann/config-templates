@@ -1,19 +1,23 @@
-# Project and Editor Configurations
+# Boilerplate
 
-This package provides some configurations for maintaining consistent coding between different projects, editors and IDEs.
+This package provides some configurations and components for maintaining consistent coding between different projects, editors and IDEs.
 
-## Babel
-- [Babelrc](.babelrc)
+## Configurations
+### Babel
+- [Babelrc](config/.babelrc)
 
-## ESLint
+### ESLint
 - [ ] TODO: .eslintrc as an extensible shared config?
 
-## Editors/IDEs
-- [EditorConfig](.editorconfig)
+### Editors/IDEs
+- [EditorConfig](config/.editorconfig)
 
-## Git
-- [Gitattributes](.gitattributes)
-- [Gitignore](.gitignore)
+### Git
+- [Gitattributes](config/.gitattributes)
+- [Gitignore](config/.gitignore)
 
-## Crawling
-- [Robots](robots.txt)
+### Crawling
+- [Robots](config/robots.txt)
+
+## Components
+- [Image](Components/img/img.html)
